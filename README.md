@@ -28,18 +28,21 @@ Il faut ensuite permettre aux autres membres de l'équipe d'intéragir avec ce m
 - Présentation PowerPoint
 
 ## Outils
+- Python
 - Git / Github
-- Jupyter notebook
+- Jupyter notebook / Python IDE
+- PowerPoint
 - Streamlit
 - Azure web app
 - Google Storage
-- Python
-  - pandas
-  - numpy
-  - tensorflow
-  - albumentations
-  - h5py
-  - google-auth
-  - fastapi
-  - streamlit
-  - requests
+
+### Python : libraires additionnelles
+- pandas
+- numpy
+- tensorflow
+- albumentations
+- h5py
+- google-auth
+- fastapi
+- streamlit
+- requests
